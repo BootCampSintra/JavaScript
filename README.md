@@ -1,5 +1,5 @@
 #Teste usando js em html
-    <!DOCTYPE html>
+   
 <html>
     <head>
     </head>
