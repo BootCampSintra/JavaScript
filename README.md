@@ -1,9 +1,12 @@
 # Teste usando js em html
-  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
     <head>
     <title>Página em JavaScript<title>
-            <script src="meucodigo.js"> </script>
+            <script > 
+         var nome="Douglas";
+        console.log(nome);
+                </script>
     </head>
    
     <body>
