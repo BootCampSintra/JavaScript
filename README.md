@@ -5,7 +5,7 @@
     </head>
     <body>
         <input type="date" />
-        <script>
+        
             var data={
   nome:prompt("Entre com seu nome :")
 }
@@ -19,7 +19,7 @@ switch(data.nome){
   default:
 console.log("Nome nao encotrado ! ");
 }
-            </script>
+            
     </body>
 </html>
 
