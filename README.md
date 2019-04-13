@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
     <head>
     </head>
     <body>
@@ -20,4 +19,4 @@ console.log("Nome nao encotrado ! ");
 
         </script>
     </body>
-</html>
+
